@@ -7,6 +7,6 @@
 **Student ID:** 695020003 - 1<br>
 
 **🧑‍💼 Course Lecturer** \
-**Asst. Dr. Pitchaya Wiratchotisatian**
+**Dr. Pitchaya Wiratchotisatian**
 > **Lecturer at KKU** \
 > Faculty of Science, Department of Statistics, Khon Kaen University 
