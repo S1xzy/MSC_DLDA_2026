@@ -8,5 +8,5 @@
 ## Assignment Status
 | Lab. No | Deadline | Sent Date | Status |
 | :--- | :---: | :---: | :---: |
-| [Lab 0: NumPy (`DLDA_Lab0_NumPy_edited.ipynb`)](./DLDA_Lab0_NumPy_edited.ipynb) | YYYY-MM-DD | 2026-11-21 | ✅ Completed |
+| [Lab 0: NumPy (`DLDA_Lab0_NumPy_edited.ipynb`)](./DLDA_Lab0_NumPy_edited.ipynb) | 2026-11-18 | 2026-11-21 | ✅ Completed |
 | [Lab 05: Classical ML (`DLDA_Lab05_ClassicalML.ipynb`)](./DLDA_Lab05_ClassicalML.ipynb) | YYYY-MM-DD | - | ⏳ In progress |
